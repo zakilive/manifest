@@ -1,0 +1,9 @@
+<? xml version="1.0" encoding="UTF-8" ?>
+<manifest>
+	<remote fetch="https://github.com/zakilive" name="origin" />
+	<default remote="origin" sync-j="3" revision="main" />
+	
+	<project name="dhaka" path="app_dhaka" /> 
+	<project name="frankfurt" path="app_frankfurt" />
+
+</manifest>
